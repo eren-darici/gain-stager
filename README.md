@@ -1,7 +1,7 @@
 # Gain Stager 1.0.0
 
 <p align="center">
-  <img src="source/assets/screenshot.png" alt="Gain‑Stager Screenshot" />
+  <img src="Source/assets/screenshot.png" alt="Gain‑Stager Screenshot" />
 </p>
 
 **Gain‑Stager** is a simple gain staging audio plugin built with **JUCE and C++**. It helps you manage and visualize gain levels in your audio projects to prevent distortion and keep signals clean.
