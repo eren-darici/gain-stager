@@ -23,7 +23,11 @@
 
 ### Precompiled VST3
 
-1. Download the latest precompiled VST3 file from the releases page.
+
+1. Download the latest precompiled VST3 file from the releases page:  
+   https://github.com/eren-darici/gain-stager/releases  
+⚠️ Current releases are **debug-compiled**. 
+Use with caution.
 2. Copy `GainStager.vst3` to your DAW's plugin folder:
     - **Windows:** `C:\Program Files\Common Files\VST3\`
     - **Mac:** `/Library/Audio/Plug-Ins/VST3/`
